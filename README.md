@@ -1,1 +1,4 @@
-# python_anova
+# ANOVA in Python
+
+**by Ian McLoughlin**
+
